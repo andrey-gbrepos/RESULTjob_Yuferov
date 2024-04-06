@@ -1,0 +1,10 @@
+1;sit
+2;stay
+3;come
+4;stop
+5;speak
+6;paw
+7;heel
+8;craw
+9;go
+10;tpruu

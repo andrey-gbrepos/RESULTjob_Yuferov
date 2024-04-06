@@ -1,0 +1,16 @@
+1;home;dog;dozor
+2;home;dog;kent
+3;home;dog;reso
+4;home;cat;tim
+6;home;cat;bella
+8;home;hamster;kama
+9;home;hamster;gosha
+10;pack;horse;iskra
+11;pack;horse;ogonek
+12;pack;horse;black
+15;pack;camel;hank
+16;pack;donkey;grey
+17;home;dog;кран
+18;home;cat;kkotil
+19;home;horse;sdgh
+20;pack;horse;Гоша
