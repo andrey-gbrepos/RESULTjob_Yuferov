@@ -65,7 +65,7 @@ public class View {
         System.out.println();
     }
     //Берем строку в соответсвии с выбором и из нее значение после ";" 
-    animal.setAnimalview(viewaniml.get(ch-1).substring(viewaniml.get(ch-1).lastIndexOf(";")+1));
+    animal.setAnimalview(viewaniml.get(ch).substring(viewaniml.get(ch).lastIndexOf(";")+1));
     System.out.println();
     String tmpstr = getUserInput("Введите кличку животного: ");
 
